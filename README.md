@@ -73,12 +73,3 @@ cd ../client
 npm start
 ```
 
-### 🌟 Contributing  
-We welcome contributions! Please **fork** the repo, create a branch, and submit a PR.  
-
-### 📜 License  
-This project is **open-source** under the **MIT License**.  
-
----
-
-🔹 **Want to add any custom sections?** Let me know! 🚀
