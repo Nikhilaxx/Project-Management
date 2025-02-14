@@ -12,7 +12,7 @@ interface DottedSeparatorProps {
 
 export const DottedSeparator = ({
 	className,
-	color = "#d4d4d8",
+	color = "#7a7a84",
 	height = "2px",
 	dotSize = "2px",
 	gapSize = "6px",
